@@ -1,6 +1,5 @@
-{
-"products": [
-{
+const text {
+"products": ['+'{
 "id": 1,
 "title": "iPhone 9",
 "description": "An apple mobile which is nothing like apple",
@@ -18,7 +17,7 @@
 "https://dummyjson.com/image/i/products/1/4.jpg",
 "https://dummyjson.com/image/i/products/1/thumbnail.jpg"
 ]
-},
+},'+'
 {
 "id": 2,
 "title": "iPhone X",
@@ -36,7 +35,7 @@
 "https://dummyjson.com/image/i/products/2/3.jpg",
 "https://dummyjson.com/image/i/products/2/thumbnail.jpg"
 ]
-},
+},'+'
 {
 "id": 3,
 "title": "Samsung Universe 9",
@@ -51,7 +50,7 @@
 "images": [
 "https://dummyjson.com/image/i/products/3/1.jpg"
 ]
-},
+},'+'
 {
 "id": 4,
 "title": "OPPOF19",
@@ -70,7 +69,7 @@
 "https://dummyjson.com/image/i/products/4/4.jpg",
 "https://dummyjson.com/image/i/products/4/thumbnail.jpg"
 ]
-},
+},'+'
 {
 "id": 5,
 "title": "Huawei P30",
@@ -87,7 +86,7 @@
 "https://dummyjson.com/image/i/products/5/2.jpg",
 "https://dummyjson.com/image/i/products/5/3.jpg"
 ]
-},
+},'+'
 {
 "id": 6,
 "title": "MacBook Pro",
@@ -105,7 +104,7 @@
 "https://dummyjson.com/image/i/products/6/3.png",
 "https://dummyjson.com/image/i/products/6/4.jpg"
 ]
-},
+},'+'
 {
 "id": 7,
 "title": "Samsung Galaxy Book",
@@ -123,7 +122,7 @@
 "https://dummyjson.com/image/i/products/7/3.jpg",
 "https://dummyjson.com/image/i/products/7/thumbnail.jpg"
 ]
-},
+},'+'
 {
 "id": 8,
 "title": "Microsoft Surface Laptop 4",
@@ -142,7 +141,7 @@
 "https://dummyjson.com/image/i/products/8/4.jpg",
 "https://dummyjson.com/image/i/products/8/thumbnail.jpg"
 ]
-},
+},'+'
 {
 "id": 9,
 "title": "Infinix INBOOK",
@@ -161,7 +160,7 @@
 "https://dummyjson.com/image/i/products/9/4.jpg",
 "https://dummyjson.com/image/i/products/9/thumbnail.jpg"
 ]
-},
+},'+'
 {
 "id": 10,
 "title": "HP Pavilion 15-DK1056WM",
@@ -179,7 +178,7 @@
 "https://dummyjson.com/image/i/products/10/3.jpg",
 "https://dummyjson.com/image/i/products/10/thumbnail.jpeg"
 ]
-},
+},'+'
 {
 "id": 11,
 "title": "perfume Oil",
@@ -197,7 +196,7 @@
 "https://dummyjson.com/image/i/products/11/3.jpg",
 "https://dummyjson.com/image/i/products/11/thumbnail.jpg"
 ]
-},
+},'+'
 {
 "id": 12,
 "title": "Brown Perfume",
@@ -216,7 +215,7 @@
 "https://dummyjson.com/image/i/products/12/4.jpg",
 "https://dummyjson.com/image/i/products/12/thumbnail.jpg"
 ]
-},
+},'+'
 {
 "id": 13,
 "title": "Fog Scent Xpressio Perfume",
@@ -235,7 +234,7 @@
 "https://dummyjson.com/image/i/products/13/4.jpg",
 "https://dummyjson.com/image/i/products/13/thumbnail.webp"
 ]
-},
+},'+'
 {
 "id": 14,
 "title": "Non-Alcoholic Concentrated Perfume Oil",
@@ -253,7 +252,7 @@
 "https://dummyjson.com/image/i/products/14/3.jpg",
 "https://dummyjson.com/image/i/products/14/thumbnail.jpg"
 ]
-},
+},'+'
 {
 "id": 15,
 "title": "Eau De Perfume Spray",
@@ -272,7 +271,7 @@
 "https://dummyjson.com/image/i/products/15/4.jpg",
 "https://dummyjson.com/image/i/products/15/thumbnail.jpg"
 ]
-},
+},'+'
 {
 "id": 16,
 "title": "Hyaluronic Acid Serum",
@@ -291,7 +290,7 @@
 "https://dummyjson.com/image/i/products/16/4.jpg",
 "https://dummyjson.com/image/i/products/16/thumbnail.jpg"
 ]
-},
+},'+'
 {
 "id": 17,
 "title": "Tree Oil 30ml",
@@ -309,7 +308,7 @@
 "https://dummyjson.com/image/i/products/17/3.jpg",
 "https://dummyjson.com/image/i/products/17/thumbnail.jpg"
 ]
-},
+},'+'
 {
 "id": 18,
 "title": "Oil Free Moisturizer 100ml",
@@ -328,7 +327,7 @@
 "https://dummyjson.com/image/i/products/18/4.jpg",
 "https://dummyjson.com/image/i/products/18/thumbnail.jpg"
 ]
-},
+},'+'
 {
 "id": 19,
 "title": "Skin Beauty Serum.",
@@ -346,7 +345,7 @@
 "https://dummyjson.com/image/i/products/19/3.png",
 "https://dummyjson.com/image/i/products/19/thumbnail.jpg"
 ]
-},
+},'+'
 {
 "id": 20,
 "title": "Freckle Treatment Cream- 15gm",
@@ -365,7 +364,7 @@
 "https://dummyjson.com/image/i/products/20/4.jpg",
 "https://dummyjson.com/image/i/products/20/thumbnail.jpg"
 ]
-},
+},'+'
 {
 "id": 21,
 "title": "- Daal Masoor 500 grams",
@@ -382,7 +381,7 @@
 "https://dummyjson.com/image/i/products/21/2.jpg",
 "https://dummyjson.com/image/i/products/21/3.jpg"
 ]
-},
+},'+'
 {
 "id": 22,
 "title": "Elbow Macaroni - 400 gm",
@@ -399,7 +398,7 @@
 "https://dummyjson.com/image/i/products/22/2.jpg",
 "https://dummyjson.com/image/i/products/22/3.jpg"
 ]
-},
+},'+'
 {
 "id": 23,
 "title": "Orange Essence Food Flavou",
@@ -418,7 +417,7 @@
 "https://dummyjson.com/image/i/products/23/4.jpg",
 "https://dummyjson.com/image/i/products/23/thumbnail.jpg"
 ]
-},
+},'+'
 {
 "id": 24,
 "title": "cereals muesli fruit nuts",
@@ -437,7 +436,7 @@
 "https://dummyjson.com/image/i/products/24/4.jpg",
 "https://dummyjson.com/image/i/products/24/thumbnail.jpg"
 ]
-},
+},'+'
 {
 "id": 25,
 "title": "Gulab Powder 50 Gram",
@@ -456,7 +455,7 @@
 "https://dummyjson.com/image/i/products/25/4.jpg",
 "https://dummyjson.com/image/i/products/25/thumbnail.jpg"
 ]
-},
+},'+'
 {
 "id": 26,
 "title": "Plant Hanger For Home",
@@ -476,7 +475,7 @@
 "https://dummyjson.com/image/i/products/26/5.jpg",
 "https://dummyjson.com/image/i/products/26/thumbnail.jpg"
 ]
-},
+},'+'
 {
 "id": 27,
 "title": "Flying Wooden Bird",
@@ -495,7 +494,7 @@
 "https://dummyjson.com/image/i/products/27/4.jpg",
 "https://dummyjson.com/image/i/products/27/thumbnail.webp"
 ]
-},
+},'+'
 {
 "id": 28,
 "title": "3D Embellishment Art Lamp",
@@ -514,7 +513,7 @@
 "https://dummyjson.com/image/i/products/28/4.jpg",
 "https://dummyjson.com/image/i/products/28/thumbnail.jpg"
 ]
-},
+},'+'
 {
 "id": 29,
 "title": "Handcraft Chinese style",
@@ -533,7 +532,7 @@
 "https://dummyjson.com/image/i/products/29/4.webp",
 "https://dummyjson.com/image/i/products/29/thumbnail.webp"
 ]
-},
+},'+'
 {
 "id": 30,
 "title": "Key Holder",
@@ -551,9 +550,16 @@
 "https://dummyjson.com/image/i/products/30/3.jpg",
 "https://dummyjson.com/image/i/products/30/thumbnail.jpg"
 ]
-}
-],
-"total": 100,
-"skip": 0,
+}'+'
+],'+'
+"total": 100,'+'
+"skip": 0,'+'
 "limit": 30
 }
+
+var h3 = document.getElementsByTagName('h3');
+const obj = JSON.parse(text);  
+for (let i = 0; i < 30; i++) {
+	h3[i].innerHTML = obj.product[i].title;
+    //console.log(tile[i] + obj['product'][i]['title']);
+  }
